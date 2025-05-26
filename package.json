@@ -1,6 +1,6 @@
 {
   "name": "shrine",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "ballin like LaMelo Ball",
   "main": "main.js",
   "scripts": {
